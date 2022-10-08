@@ -1,9 +1,3 @@
-/*
-*  NAME: PREETI SINGH  
-*  UTA ID - 1002013566
-*  NAME:   SHUBASH MUNIYAPPA
-*  UTA ID - 1001915563
-*/
 
 #include "mavalloc.h"
 #include "tinytest.h"
